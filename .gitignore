@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+eggs/
+*.egg
+
+# Environments
+.env
+venv/
+env/
+# virtualenv
+# Vagrant virtual environment
+.vagrant/
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.bak
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+db.sqlite3
+
+# Test and coverage
+.coverage
+htmlcov/
+.nox/
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Miscellaneous
+*.zip
+*.tar.gz

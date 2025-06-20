@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "title": "Red Rising",
+        "genre": "Sci-Fi",
+        "completed": true,
+        "skipped": false
+    },
+    {
+        "id": 2,
+        "title": "Empire of Silence",
+        "genre": "Sci-Fi",
+        "completed": true,
+        "skipped": false
+    },
+    {
+        "id": 3,
+        "title": "The Devils",
+        "genre": "Fantasy",
+        "completed": false,
+        "skipped": false
+    },
+    {
+        "id": 4,
+        "title": "Golden Son",
+        "genre": "Sci-Fi",
+        "completed": true,
+        "skipped": false
+    },
+    {
+        "id": 5,
+        "title": "King of Ashes",
+        "genre": "Mystery",
+        "completed": false,
+        "skipped": false
+    },
+    {
+        "id": 6,
+        "title": "Pines",
+        "genre": "Sci-Fi",
+        "completed": false,
+        "skipped": false
+    },
+    {
+        "id": 7,
+        "title": "An Ember in the Ashes",
+        "genre": "Fantasy",
+        "completed": false,
+        "skipped": false
+    },
+    {
+        "id": 8,
+        "title": "Alone with You in the Ether",
+        "genre": "Romance",
+        "completed": false,
+        "skipped": false
+    },
+    {
+        "id": 9,
+        "title": "The Ghostwriter",
+        "genre": "Thriller",
+        "completed": false,
+        "skipped": false
+    },
+    {
+        "id": 10,
+        "title": "Wild Dark Shore",
+        "genre": "Fiction",
+        "completed": false,
+        "skipped": false
+    },
+    {
+        "id": 11,
+        "title": "Bury Our Bones in the Midnight Soil",
+        "genre": "Fiction",
+        "completed": false,
+        "skipped": false
+    },
+    {
+        "id": 12,
+        "title": "The Five-Star Weekend",
+        "genre": "Fiction",
+        "completed": false,
+        "skipped": false
+    },
+    {
+        "id": 13,
+        "title": "The Name of the Wind",
+        "genre": "Fantasy",
+        "completed": true,
+        "skipped": false
+    },
+    {
+        "id": 14,
+        "title": "The Wise Man's Fear",
+        "genre": "Fantasy",
+        "completed": false,
+        "skipped": false
+    },
+    {
+        "id": 15,
+        "title": "Funny Story",
+        "genre": "Romance",
+        "completed": true,
+        "skipped": false
+    },
+    {
+        "id": 16,
+        "title": "Book Lovers",
+        "genre": "Romance",
+        "completed": true,
+        "skipped": false
+    },
+    {
+        "id": 17,
+        "title": "A Tide of Black Steel",
+        "genre": "Fantasy",
+        "completed": false,
+        "skipped": true
+    },
+    {
+        "id": 18,
+        "title": "The Will of the Many",
+        "genre": "Fantasy",
+        "completed": false,
+        "skipped": false
+    },
+    {
+        "id": 19,
+        "title": "One Dark Window",
+        "genre": "Fantasy",
+        "completed": true,
+        "skipped": false
+    },
+    {
+        "id": 20,
+        "title": "Two Twisted Crowns",
+        "genre": "Fantasy",
+        "completed": true,
+        "skipped": false
+    },
+    {
+        "id": 21,
+        "title": "Six of Crows",
+        "genre": "Fantasy",
+        "completed": false,
+        "skipped": false
+    },
+    {
+        "id": 22,
+        "title": "Howling Dark",
+        "genre": "Sci-Fi",
+        "completed": false,
+        "skipped": false
+    }
+]
